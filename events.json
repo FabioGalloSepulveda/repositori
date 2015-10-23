@@ -2,16 +2,19 @@
   {
     "title": "Paipa",
     "start": "2015-10-01 06:20:15",
+    "end": "2015-10-01 06:25:15",
     "allDay" : false 
   },
   {
     "title": "Duitama",
     "start": "2015-10-07 13:00:00",
+    "end": "2015-10-01 13:25:15",
     "allDay" : false 
   },
   {
     "title": "siks",
     "start": "2015-10-28 06:00:00",
+    "end": "2015-10-01 06:00:00",
     "allDay":false
   }
 ]
