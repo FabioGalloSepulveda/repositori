@@ -1,7 +1,8 @@
 [
   {
     "title": "Paipa",
-    "start": "2015-10-01 06:20:15"
+    "start": "2015-10-01 06:20:15",
+    "allDay" : false 
   },
   {
     "title": "Duitama",
